@@ -1,0 +1,12 @@
+What is the default text editor for the Bash shell with a Windows-based Git install? Vim text editor
+#Before you install Git, which of the following prerequisite products must be present and configured on your local OS?
+c. Nothing
+
+#After you install Git and prior to issuing the first commit, which two configuration properties does the tool expect to be configured?
+Username and email address
+#Who is attributed with the creation of git? L
+Linus Torvalds
+#After you initialize a new Git repository and create a file named git-quiz.html, which of the following commands will not work if issued?
+d. git commit -m "git quiz web file added"
+#Which command should you use to initialize a new Git repository?
+git init
